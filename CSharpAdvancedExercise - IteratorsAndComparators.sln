@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListyIterator", "ListyIterator\ListyIterator.csproj", "{BFC1F7A5-A2DE-4C3A-BFFC-13B58A198755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "CustomStack\Stack.csproj", "{3CAACF2B-A2FA-49C9-9A15-A67D435DFBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC1F7A5-A2DE-4C3A-BFFC-13B58A198755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC1F7A5-A2DE-4C3A-BFFC-13B58A198755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC1F7A5-A2DE-4C3A-BFFC-13B58A198755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC1F7A5-A2DE-4C3A-BFFC-13B58A198755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAACF2B-A2FA-49C9-9A15-A67D435DFBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAACF2B-A2FA-49C9-9A15-A67D435DFBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAACF2B-A2FA-49C9-9A15-A67D435DFBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAACF2B-A2FA-49C9-9A15-A67D435DFBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6072D5D-0153-4BC4-B04B-6B0B32D41C5A}
+	EndGlobalSection
+EndGlobal
